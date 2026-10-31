@@ -1,0 +1,79 @@
+{
+  "themes": [
+    {
+      "name": "Классика",
+      "title": "white",
+      "muted": "white",
+      "ssid": "white",
+      "sec": "white",
+      "cur": "green",
+      "bracket": "white",
+      "cursor": "yellow",
+      "sep": "white",
+      "menu": "white",
+      "help": "white",
+      "status": "yellow",
+      "error": "red"
+    },
+    {
+      "name": "Океан",
+      "title": "cyan",
+      "muted": "cyan",
+      "ssid": "blue",
+      "sec": "cyan",
+      "cur": "cyan",
+      "bracket": "cyan",
+      "cursor": "white",
+      "sep": "cyan",
+      "menu": "cyan",
+      "help": "cyan",
+      "status": "yellow",
+      "error": "red"
+    },
+    {
+      "name": "Неон",
+      "title": "magenta",
+      "muted": "magenta",
+      "ssid": "white",
+      "sec": "magenta",
+      "cur": "green",
+      "bracket": "magenta",
+      "cursor": "yellow",
+      "sep": "magenta",
+      "menu": "green",
+      "help": "magenta",
+      "status": "green",
+      "error": "red"
+    },
+    {
+      "name": "Закат",
+      "title": "yellow",
+      "muted": "yellow",
+      "ssid": "red",
+      "sec": "yellow",
+      "cur": "yellow",
+      "bracket": "red",
+      "cursor": "red",
+      "sep": "red",
+      "menu": "yellow",
+      "help": "yellow",
+      "status": "yellow",
+      "error": "red"
+    },
+    {
+      "name": "Лес",
+      "title": "green",
+      "muted": "green",
+      "ssid": "green",
+      "sec": "white",
+      "cur": "yellow",
+      "bracket": "green",
+      "cursor": "green",
+      "sep": "green",
+      "menu": "green",
+      "help": "green",
+      "status": "green",
+      "error": "red"
+    }
+  ]
+}
